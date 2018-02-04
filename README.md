@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-##Reference
+## Reference
 
 Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets
 
