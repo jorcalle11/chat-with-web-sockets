@@ -1,0 +1,29 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  display: flex;
+}
+
+main {
+  width: 100%;
+}
+
+#users-list {
+  border-right: 1px solid black;
+  width: 30%;
+}
+
+#messages-list {
+  border-bottom: 1px solid black;
+  min-height: 80%;
+}
+
+#add-message {
+  width: 100%;
+}
